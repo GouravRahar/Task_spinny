@@ -22,7 +22,7 @@ darkskylib==0.3.91
 
 # Debugging
 # -------------------------------------
-django-debug-toolbar==4.1.0
+django-debug-toolbar==3.8.1
 ipdb==0.13.13
 
 
